@@ -13,7 +13,7 @@ export default function Layout({ children }) {
       <div className={styles.container}>
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Gusto Ried Menu
+          Gusto Ried Menü
         </h1>
         {children}
       </main>
